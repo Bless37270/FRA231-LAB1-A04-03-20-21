@@ -1,0 +1,8 @@
+rtGetInf.o: \
+ C:/Users/ASUS/Documents/MATLAB/FRA231-Robotics-Modelling-and-Experimentation-2024-main/Lab1.1_Example/encoder/BasicKit_ert_rtw/rtGetInf.c \
+ C:/Users/ASUS/Documents/MATLAB/FRA231-Robotics-Modelling-and-Experimentation-2024-main/Lab1.1_Example/encoder/BasicKit_ert_rtw/rtwtypes.h \
+ C:/Users/ASUS/Documents/MATLAB/FRA231-Robotics-Modelling-and-Experimentation-2024-main/Lab1.1_Example/encoder/BasicKit_ert_rtw/rtGetInf.h \
+ C:/Users/ASUS/Documents/MATLAB/FRA231-Robotics-Modelling-and-Experimentation-2024-main/Lab1.1_Example/encoder/BasicKit_ert_rtw/rt_nonfinite.h
+C:/Users/ASUS/Documents/MATLAB/FRA231-Robotics-Modelling-and-Experimentation-2024-main/Lab1.1_Example/encoder/BasicKit_ert_rtw/rtwtypes.h:
+C:/Users/ASUS/Documents/MATLAB/FRA231-Robotics-Modelling-and-Experimentation-2024-main/Lab1.1_Example/encoder/BasicKit_ert_rtw/rtGetInf.h:
+C:/Users/ASUS/Documents/MATLAB/FRA231-Robotics-Modelling-and-Experimentation-2024-main/Lab1.1_Example/encoder/BasicKit_ert_rtw/rt_nonfinite.h:

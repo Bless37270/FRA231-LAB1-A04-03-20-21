@@ -1,0 +1,2 @@
+syscalls.o: \
+ C:/Users/ASUS/Documents/MATLAB/Test/lab1/STM32CubeIDE/Application/User/Core/syscalls.c

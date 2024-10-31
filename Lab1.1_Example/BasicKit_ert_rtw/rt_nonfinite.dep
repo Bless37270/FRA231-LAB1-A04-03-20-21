@@ -1,0 +1,6 @@
+rt_nonfinite.o: \
+ C:/Users/ASUS/Documents/MATLAB/FRA231-Robotics-Modelling-and-Experimentation-2024-main/Lab1.1_Example/BasicKit_ert_rtw/rt_nonfinite.c \
+ C:/Users/ASUS/Documents/MATLAB/FRA231-Robotics-Modelling-and-Experimentation-2024-main/Lab1.1_Example/BasicKit_ert_rtw/rtwtypes.h \
+ C:/Users/ASUS/Documents/MATLAB/FRA231-Robotics-Modelling-and-Experimentation-2024-main/Lab1.1_Example/BasicKit_ert_rtw/rt_nonfinite.h
+C:/Users/ASUS/Documents/MATLAB/FRA231-Robotics-Modelling-and-Experimentation-2024-main/Lab1.1_Example/BasicKit_ert_rtw/rtwtypes.h:
+C:/Users/ASUS/Documents/MATLAB/FRA231-Robotics-Modelling-and-Experimentation-2024-main/Lab1.1_Example/BasicKit_ert_rtw/rt_nonfinite.h:
